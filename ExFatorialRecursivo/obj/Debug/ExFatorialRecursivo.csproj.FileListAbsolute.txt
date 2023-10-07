@@ -1,0 +1,8 @@
+C:\Users\guilh\Documents\Estudos\Tecnologia da Informação\Prática\Aplicações de programação\C#\Treinos\ex4FatorialRecursivo\Fatorial-Recursivo\ExFatorialRecursivo\bin\Debug\ExFatorialRecursivo.exe.config
+C:\Users\guilh\Documents\Estudos\Tecnologia da Informação\Prática\Aplicações de programação\C#\Treinos\ex4FatorialRecursivo\Fatorial-Recursivo\ExFatorialRecursivo\bin\Debug\ExFatorialRecursivo.exe
+C:\Users\guilh\Documents\Estudos\Tecnologia da Informação\Prática\Aplicações de programação\C#\Treinos\ex4FatorialRecursivo\Fatorial-Recursivo\ExFatorialRecursivo\bin\Debug\ExFatorialRecursivo.pdb
+C:\Users\guilh\Documents\Estudos\Tecnologia da Informação\Prática\Aplicações de programação\C#\Treinos\ex4FatorialRecursivo\Fatorial-Recursivo\ExFatorialRecursivo\obj\Debug\ExFatorialRecursivo.csproj.AssemblyReference.cache
+C:\Users\guilh\Documents\Estudos\Tecnologia da Informação\Prática\Aplicações de programação\C#\Treinos\ex4FatorialRecursivo\Fatorial-Recursivo\ExFatorialRecursivo\obj\Debug\ExFatorialRecursivo.csproj.SuggestedBindingRedirects.cache
+C:\Users\guilh\Documents\Estudos\Tecnologia da Informação\Prática\Aplicações de programação\C#\Treinos\ex4FatorialRecursivo\Fatorial-Recursivo\ExFatorialRecursivo\obj\Debug\ExFatorialRecursivo.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Documents\Estudos\Tecnologia da Informação\Prática\Aplicações de programação\C#\Treinos\ex4FatorialRecursivo\Fatorial-Recursivo\ExFatorialRecursivo\obj\Debug\ExFatorialRecursivo.exe
+C:\Users\guilh\Documents\Estudos\Tecnologia da Informação\Prática\Aplicações de programação\C#\Treinos\ex4FatorialRecursivo\Fatorial-Recursivo\ExFatorialRecursivo\obj\Debug\ExFatorialRecursivo.pdb
